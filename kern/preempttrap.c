@@ -1,5 +1,6 @@
 #include <linux/uaccess.h>
 #include <linux/user-return-notifier.h>
+#include <linux/sched/task_stack.h>
 
 #include "dune.h"
 
